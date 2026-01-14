@@ -3,6 +3,8 @@
 /* Lion's Standard (LS) test harness.
  *
  * Version: 1.0
+ * Repo: https://github.com/lionkor/ls_test
+ * SPDX-License-Identifier: MIT
  *
  * ==== TABLE OF CONTENTS ====
  *
