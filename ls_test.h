@@ -48,7 +48,9 @@
  * This file is provided under the MIT license. For commercial support and
  * maintenance, feel free to use the e-mail below to contact the author(s).
  *
- * Copyright © 2026 Lion Kortlepel <development@kortlepel.com>
+ * The MIT License (MIT)
+ *
+ * Copyright (c) 2026 Lion Kortlepel <development@kortlepel.com>
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the “Software”), to deal
