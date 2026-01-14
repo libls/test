@@ -2,6 +2,8 @@
 
 /* Lion's Standard (LS) test harness.
  *
+ * Version: 1.0
+ *
  * ==== TABLE OF CONTENTS ====
  *
  * 1. DESCRIPTION
@@ -204,7 +206,7 @@
 #if defined(__GNUC__) || defined(__clang__)
 #define LS_CONSTRUCTOR __attribute__((constructor))
 #else
-#error "Need constructor support on this compiler"
+#error "Requires __attribute__((constructor)) support"
 #endif
 
 typedef int (*lst_func)(void);
