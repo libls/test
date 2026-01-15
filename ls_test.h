@@ -1,5 +1,3 @@
-#pragma once
-
 /* Lion's Standard (LS) test harness.
  *
  * Version: 1.0
@@ -75,6 +73,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+#pragma once
 
 #include <stdio.h>
 
