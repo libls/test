@@ -31,3 +31,9 @@ Minimal, single-header unit test framework for C.
 ## License
 
 MIT.
+
+## Links
+
+- [Website](https://libls.org)
+- [GitHub](https://github.com/libls/test.git)
+- [LibLS Git](https://git.libls.org/test.git)

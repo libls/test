@@ -2,7 +2,8 @@
  *
  * Version: 1.3
  * Website: https://libls.org
- * Repo: https://github.com/libls/test
+ * GitHub: https://github.com/libls/test
+ * Mirror: https://git.libls.org/test.git
  * SPDX-License-Identifier: MIT
  *
  * ==== TABLE OF CONTENTS ====
